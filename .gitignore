@@ -2,3 +2,6 @@
 **/target/
 allure-results/
 .allure/
+build/reports/tests
+testTask.iml
+testTask
